@@ -1,6 +1,0 @@
-for(int a : v) cout << a << " ";
-for(int i = 0; i < v.size(); i++) cout << v[i] << ' ';
-vector<pair<int, int>> v2;
-for(pair<int, int> a : v2) cout << a.first << " ";
-
-
